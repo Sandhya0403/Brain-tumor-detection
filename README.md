@@ -34,7 +34,7 @@ project_root/
 ```
 
 ### Dataset Source
-If the dataset is public, provide the link here (e.g., Kaggle or another source).
+(https://www.kaggle.com/datasets/mhantor/mri-based-brain-tumor-images)
 
 ## How to Run
 1. **Run Jupyter Notebook**:
@@ -48,9 +48,9 @@ If the dataset is public, provide the link here (e.g., Kaggle or another source)
 
 ## Results
 The project demonstrates the following results:
-- Model accuracy: XX%
-- Precision: XX%
-- Recall: XX%
+- Model accuracy: 0.80%
+- Precision: 0.72%
+- Recall: 0.74%
 
 ## Tools and Libraries Used
 - Python
@@ -61,7 +61,7 @@ The project demonstrates the following results:
 
 ## Future Improvements
 - Integrate more advanced architectures (e.g., transfer learning, ResNet).
-- Deploy the model using a web app (e.g., Flask or Streamlit).
+- Deploy the model using a web app ( Streamlit).
 
 ## Contributing
 Feel free to open issues or submit pull requests if you'd like to contribute to this project.
